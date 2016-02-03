@@ -208,10 +208,33 @@ textarea, input[type="text"] {
 }
 
 .board-form {
-	margin: 2em 0;
+	margin-top: 1em;
 }
 
 .button-centerer {
 	text-align: center;
+	margin-bottom: 2em;
+}
+
+.inspiring-boards-label {
+	position: relative;
+    right: 140px;
+    top: 40px;
+    color: #4d4d4d;
+}
+
+.examples{
+
+	position: relative;
+    left: 49px;
+    top: 60px;
+
+}
+
+.vidthumb {
+		position: relative;
+    left: -6px;
+    top: 60px;
+
 }
 
